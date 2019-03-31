@@ -1,0 +1,3 @@
+[submodule "LinuxStepperDriver"]
+	path = LinuxStepperDriver
+	url = https://github.com/brenocastrocardoso/LinuxStepperDriver
