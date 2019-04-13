@@ -1,0 +1,20 @@
+{
+    "XJitter": "10",
+    "XfeedSpeed": "10",
+    "XmaxAcceleration": "10",
+    "XmaxSpeed": "10",
+    "XstepPerMM": "10",
+    "XupdateFileLock": "10",
+    "YJitter": "10",
+    "YfeedSpeed": "10",
+    "YmaxAcceleration": "10",
+    "YmaxSpeed": "10",
+    "YstepPerMM": "10",
+    "YupdateFileLock": "10",
+    "ZJitter": "10",
+    "ZfeedSpeed": "10",
+    "ZmaxAcceleration": "10",
+    "ZmaxSpeed": "10",
+    "ZstepPerMM": "10",
+    "ZupdateFileLock": "10"
+}
